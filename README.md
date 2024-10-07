@@ -44,7 +44,7 @@ Based on the preceding analysis, I have implemented a two-tier classification sy
 
 ## **Results**
 
-+ Selected **n_estimators** = **200** and trained the entire dataset, achieving **100% accuracy** on a sample from the validation dataset.
++ Selected **n_estimators** = **250** and trained the entire dataset, achieving **100% accuracy** on a sample from the validation dataset.
 + The entire code for this section is available in **main.ipynb**.
 
 ## **Dependencies**
